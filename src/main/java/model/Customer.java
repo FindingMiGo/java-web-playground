@@ -22,6 +22,9 @@ public class Customer {
 	private int discountRate;
 	private boolean deleteFlag;
 
+	public Customer() {
+	}
+
 	public Customer(String customerCode, String customerName, String customerTelno, String customerPostalcode,
 			String customerAddress, int discountRate, boolean deleteFlag) {
 		super();
