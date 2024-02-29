@@ -1,0 +1,12 @@
+dao/BaseDao.class
+com/findingmigo/talent/model/Talent.class
+model/Janies.class
+model/Editor.class
+controller/LoginServlet.class
+controller/JaniesServlet.class
+dao/JaniesDao.class
+com/findingmigo/talent/controller/TalentServlet.class
+StartUp.class
+dao/EditorDao.class
+com/findingmigo/talent/dao/TalentDao.class
+exception/JaniesException.class

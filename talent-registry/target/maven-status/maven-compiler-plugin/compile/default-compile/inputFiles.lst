@@ -1,0 +1,12 @@
+/home/river/dev/jsysdb/talent-registry/src/main/java/dao/BaseDao.java
+/home/river/dev/jsysdb/talent-registry/src/main/java/controller/LoginServlet.java
+/home/river/dev/jsysdb/talent-registry/src/main/java/com/findingmigo/talent/controller/TalentServlet.java
+/home/river/dev/jsysdb/talent-registry/src/main/java/StartUp.java
+/home/river/dev/jsysdb/talent-registry/src/main/java/exception/JaniesException.java
+/home/river/dev/jsysdb/talent-registry/src/main/java/com/findingmigo/talent/model/Talent.java
+/home/river/dev/jsysdb/talent-registry/src/main/java/dao/EditorDao.java
+/home/river/dev/jsysdb/talent-registry/src/main/java/model/Janies.java
+/home/river/dev/jsysdb/talent-registry/src/main/java/dao/JaniesDao.java
+/home/river/dev/jsysdb/talent-registry/src/main/java/model/Editor.java
+/home/river/dev/jsysdb/talent-registry/src/main/java/com/findingmigo/talent/dao/TalentDao.java
+/home/river/dev/jsysdb/talent-registry/src/main/java/controller/JaniesServlet.java
